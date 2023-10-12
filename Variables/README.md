@@ -7,3 +7,11 @@
 ```
 unsigned int num = 8
 ```
+
+## Datatypes are up to the developer
+
+```
+float f = 0.5		0.5 = double
+```
+
+> when initializing e.g. a float with a double-value the final value is a float
